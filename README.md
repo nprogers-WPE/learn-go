@@ -1,5 +1,5 @@
 # learn-go
-hi
+hi hey
 # learn-go
 boop
 boop
